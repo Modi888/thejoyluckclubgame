@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd client && npm install && npm run build",
+  "outputDirectory": "client/dist",
+  "installCommand": "npm install",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/dialogue/respond", "destination": "/api/dialogue/respond" },
+    { "source": "/api/dialogue/reflect", "destination": "/api/dialogue/reflect" },
+    { "source": "/api/health", "destination": "/api/health" }
+  ]
+}
