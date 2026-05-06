@@ -12,9 +12,8 @@ export function AboutScreen() {
         <section>
           <h2>What this is</h2>
           <p>
-            <em>What I Meant to Say</em> is a short, literary dialogue game inspired by themes from
-            Amy Tan&apos;s <em>The Joy Luck Club</em>. You play a daughter coming home for dinner.
-            In three to six minutes, a small misunderstanding between you and your mother will
+            <em>What I Meant to Say</em> is a short, literary dialogue game. The player plays as a daughter coming home for dinner.
+            In three to six minutes, a small misunderstanding between the daughter and the mother will
             surface, unfold, and settle into one of several endings.
           </p>
         </section>
@@ -24,7 +23,7 @@ export function AboutScreen() {
           <ul>
             <li>Mother-daughter relationships</li>
             <li>Generational conflict and misunderstanding</li>
-            <li>Cultural identity and indirect expressions of love</li>
+            <li>Cultural identity and assimilation</li>
           </ul>
         </section>
 
@@ -32,8 +31,7 @@ export function AboutScreen() {
           <h2>Why a dinner scene</h2>
           <p>
             Most real family arguments are not about the thing they appear to be about. An
-            argument about rice, grades, or a phone is often an argument about love, expectation,
-            and being understood. The dinner table is where those things surface most often, and
+            argument about rice, grades, or a phone is often an argument about love and expectation. The dinner table is where those things surface most often, and
             where the least of them can be said out loud.
           </p>
         </section>
@@ -41,9 +39,7 @@ export function AboutScreen() {
         <section>
           <h2>Personal connection</h2>
           <p>
-            This project draws on the experience of speaking two languages — one at home, one
-            outside — and realizing, as a daughter, how much of my mother&apos;s care I only
-            learned to recognize later. The mother character in this game is not my mother. But
+            This project is inspired by the experience of daily conversations with my mother. The mother character in this game is not completely my mother. But
             some of what she doesn&apos;t say comes from what I once failed to hear.
           </p>
         </section>
