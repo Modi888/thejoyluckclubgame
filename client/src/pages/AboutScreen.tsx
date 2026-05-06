@@ -63,10 +63,6 @@ export function AboutScreen() {
               </li>
             ))}
           </ul>
-          <p className="placeholder-note">
-            Bracketed entries are placeholders — they will be replaced with the three real sources
-            cited in the final submission.
-          </p>
         </section>
 
         <section>
